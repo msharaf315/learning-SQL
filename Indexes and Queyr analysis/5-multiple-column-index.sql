@@ -1,0 +1,1 @@
+CREATE INDEX address_city_street ON addresses (city, street)
